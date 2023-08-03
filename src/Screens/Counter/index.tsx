@@ -40,8 +40,6 @@ const Counter = () => {
           style={{
             borderWidth: 1,
             borderColor: 'gray',
-            marginVertical: 10,
-            padding: 5,
           }}
           placeholder="Enter increment value"
           value={incrementValue}
